@@ -19,7 +19,7 @@ Our Air Passenger Arrival Data Management System addresses critical challenges i
 	3.4) Let the programme run then click ‘Finish’ Once its done.
 	3.5) Open the python file of the code in Pycharm Community Edition 
 	3.6) Click the button near the bottom left of the interface search for respective packages to install.
-	3.7) Download the following packages: MariaDB, pandas, pymysql, sqlalchemy and ttkbootstrap.
+	3.7) Download the following packages: MariaDB, pandas,matplotlib, pymysql, sqlalchemy and ttkbootstrap.
 
 4. Installation Guide for MariaDB 
 	Install MariaDB here: https://mariadb.com/
