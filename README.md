@@ -28,7 +28,7 @@ Airlines Database Management System (DBMS) User Manual
     o	Create a password and user in mariaDB
     o	Create a database using the Query in MariaDB 
        ![image](https://github.com/user-attachments/assets/2087108a-6e2b-4e71-9332-76e376df903c)
-    o	Exit mariaDB and open up command prompt.Download and ingest the sql file by opening command prompt outside of MariaDB 
+    o	Exit mariaDB and open up command prompt  Download and ingest the sql file by opening command prompt outside of MariaDB 
     	Select the correct path in the command prompt of where the sqlfile is stored then add this line of code to ingest 
     ![image](https://github.com/user-attachments/assets/14b359aa-bde6-44bb-844d-cfef32b646db)
 
