@@ -30,7 +30,8 @@ Airlines Database Management System (DBMS) User Manual
        ![image](https://github.com/user-attachments/assets/2087108a-6e2b-4e71-9332-76e376df903c)
     o	Exit mariaDB and open up command prompt.Download and ingest the sql file by opening command prompt outside of MariaDB 
     	Select the correct path in the command prompt of where the sqlfile is stored then add this line of code to ingest 
-    ![image](https://github.com/user-attachments/assets/136f2bc5-e1a3-41b5-97be-caea6ecc6a19)
+    ![image](https://github.com/user-attachments/assets/14b359aa-bde6-44bb-844d-cfef32b646db)
+
     	Log into MariaDB again and check if the database is updated.
     o	Update the following code in PyCharm to reflect your respective Username, Password and Database Name
 
