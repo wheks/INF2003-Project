@@ -27,13 +27,20 @@ Airlines Database Management System (DBMS) User Manual
     o	Install MariaDB here: https://mariadb.com/
     o	Create a password and user in mariaDB
     o	Create a database using the Query in MariaDB 
-    o	Download and ingest the sql file by opening command prompt outside of MariaDB 
+       ![image](https://github.com/user-attachments/assets/2087108a-6e2b-4e71-9332-76e376df903c)
+    o	Exit mariaDB and open up command prompt.Download and ingest the sql file by opening command prompt outside of MariaDB 
     	Select the correct path in the command prompt of where the sqlfile is stored then add this line of code to ingest 
-    	mysql -u ‘Username’ -p ‘Projectname’ < ‘sqlfilename’.sql
+    ![image](https://github.com/user-attachments/assets/136f2bc5-e1a3-41b5-97be-caea6ecc6a19)
     	Log into MariaDB again and check if the database is updated.
     o	Update the following code in PyCharm to reflect your respective Username, Password and Database Name
- 
-•	Once done, open MariaDB and check with the database if it is now loaded and the code in python is updated to connect to MariaDB correctly, run the code.
+
+![image](https://github.com/user-attachments/assets/0d78241c-3476-40bd-b440-65740624f3ef)
+
+![image](https://github.com/user-attachments/assets/681546b3-08d4-4c8b-89fe-30e243c1df76)
+
+       
+•	Make sure to change username to the username you created! Password as well!
+   Once done, open MariaDB and check with the database if it is now loaded and the code in python is updated to connect to MariaDB correctly, run the code.
 
 
 3. Getting Started with the DBMS
